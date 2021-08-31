@@ -1,0 +1,30 @@
+API
+Code first
+Rest
+
+FOR TESTS
+Swagger
+PostMan
+
+SEGURANCE
+blind Classes
+
+create new project GAMES
+Project empty
+Class Library(.NET Framework)
+New folder > Entities.cs
+Entities > Players.cs
+Entities > Plataform.cs
+Entities > Game.cs
+Entities > MyGames.cs
+Entities > PlataformGame.cs
+
+New folder > Diagrams
+Diagrams > class diagram(XGame.cd)
+
+New folder > ValueObjects
+ValueObjects > Email.cs
+ValueObjects > Name.cs
+
+New folder > Enum
+Enum > EnumPlayerSituation.cs
